@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "meNt0Nw6cEFaknFGVHfmAjFUGN2FgymjYYCLMmGlpBo=",
+  "Source": "webapp",
+  "BasePath": "_content/webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "webapp\\wwwroot",
+      "Source": "webapp",
+      "ContentRoot": "C:\\Users\\Vasiliy\\Documents\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vasiliy\\Documents\\webapp\\wwwroot\\script.js",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vasiliy\\Documents\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vasiliy\\Documents\\webapp\\wwwroot\\style.css",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vasiliy\\Documents\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
